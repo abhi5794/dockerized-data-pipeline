@@ -17,4 +17,4 @@ services:
     volumes:
       - "/home/vboxuser/Projects/DEZ/pgAdmin:/var/lib/pgadmin:rw"
     ports:
-      - "8080:80"
+      - "8080:8080"
